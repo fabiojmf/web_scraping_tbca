@@ -1,6 +1,6 @@
 # Raspagem na Tabela Brasileira de Composição de Alimentos
-Raspagem de informações nutricionais e químicas na TBCA.
+- Raspagem de informações nutricionais e químicas no site oficial da TBCA.
 
-O output dessa raspagem é um arquivo JSON.
+- A saída dessa raspagem é um arquivo JSON.
 
-Composição Química (Informação Estatística)
+**composicao_quimica_tbca.py** -> *Composição Química (Informação Estatística)*
