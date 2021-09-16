@@ -71,7 +71,6 @@ def ler_sub_paginas_info_estatistica(item):
     sub_pagina = s.get(link1+item[0])
     sub_info = BeautifulSoup(sub_pagina.content, "html.parser")
     sub_body_rows = sub_info.find_all("table")[0].find_all("tr")[1:]
-    temp_val = []
     for row_num in range(len(sub_body_rows)):
         temp_val = []
         contador = 0
