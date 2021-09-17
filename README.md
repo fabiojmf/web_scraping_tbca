@@ -4,3 +4,5 @@
 - A saída dessa raspagem é um arquivo JSON.
 
 **composicao_quimica_tbca.py** -> *Composição Química (Informação Estatística)*
+
+**composicao_medida_caseira_tbca.py** -> *Composição de Alimentos (Em Medidas Caseiras)*
